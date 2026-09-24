@@ -12,16 +12,6 @@ Converts Revit assembly code files (`.txt`, Revit Assembly Code format) into a f
 
 The tool works offline. Files are processed locally in the browser and are never uploaded.
 
-## Input format
-
-Each line holds a code, a name and a level, separated by tabs. An optional fourth column holds the Revit category.
-
-```
-05	СМР	1
-05.01	Подготовительные работы	2
-05.01.01	Демонтажные работы	3
-```
-
 ## Output
 
 | Sheet | Contents |
