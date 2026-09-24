@@ -7,7 +7,7 @@ Converts Revit assembly code files (`.txt`, Revit Assembly Code format) into a f
 
 1. **[Download](https://github.com/Data0000001/revit_assembly_code_to_excel/releases/download/release/assembly_code_to_excel.html)** — one HTML file.
 2. Open `assembly_code_to_excel.html` in a browser.
-3. Click **Choose files** or drag one or more `.txt` files onto the page.
+3. Click **Choose files** or drag one or more assembly code `.txt` files onto the page.
 4. The `.xlsx` downloads automatically, with the same name as the source file.
 
 **Show issues** lists any problems found in the file.
