@@ -1,4 +1,4 @@
-# Classifier → Excel
+# Revit Classifier → Excel
 
 Converts classifier code files (`.txt`, Revit Assembly Code format) into a formatted Excel workbook. It is a single HTML file, so there is nothing to install.
 
