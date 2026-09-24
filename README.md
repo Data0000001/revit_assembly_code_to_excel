@@ -26,7 +26,7 @@ Each line holds a code, a name and a level, separated by tabs. An optional fourt
 
 | Sheet | Contents |
 |---|---|
-| **Classifier** | No., Code, Name, Level, Parent Code (plus Revit Category if present). Names are indented by level, levels 1–3 are shaded, and rows are grouped so levels can be collapsed. Filter and frozen header are on. |
+| **Classifier** | Names are indented by level, levels 1–3 are shaded with colore, and rows are grouped so levels can be collapsed. Filter and frozen header are on. |
 | **Summary** | Source file, total rows, issue count, and number of codes in each top-level section. |
 | **Issues** | Source line number, code, name and description for each problem found. |
 
