@@ -1,4 +1,4 @@
-# Revit Assembly code files → Excel
+# Revit Assembly code to Excel
 
 Converts Revit assembly code files (`.txt`, Revit Assembly Code format) into a formatted Excel workbook. It is a single HTML file, so there is nothing to install.
 
